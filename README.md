@@ -2,7 +2,7 @@
 
 EDA of the TOP 50 US Tech Companies dataset in Kaggle
 
-My goal in this project is to perform exploratory data analysis (EDA) on the Top 50 US Tech Companies dataset from kaggle (found [here](https://www.kaggle.com/datasets/lamiatabassum/top-50-us-tech-companies-2022-2023-dataset), showcasing various techniques and potential graphs that can be utilized to extract meaningful insights from the data. EDA is an essential step in any data analysis project, as it helps in understanding the structure of the data and identifying any patterns, trends, or outliers that may be present.
+My goal in this project is to perform exploratory data analysis (EDA) on the Top 50 US Tech Companies dataset from kaggle (found [here](https://www.kaggle.com/datasets/lamiatabassum/top-50-us-tech-companies-2022-2023-dataset)), showcasing various techniques and potential graphs that can be utilized to extract meaningful insights from the data. EDA is an essential step in any data analysis project, as it helps in understanding the structure of the data and identifying any patterns, trends, or outliers that may be present.
 
 The given dataset provides a comprehensive list of the top 50 Tech companies in the United States, along with their quantifiable and categorical attributes. With 50 rows and 10 columns, the dataset offers a compact yet informative source of data for anyone interested in conducting exploratory data analysis (EDA) on this subject.
 
